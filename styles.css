@@ -2,18 +2,18 @@ h1 {
     font-family: "Century Gothic", sans-serif;
   color: #fa6432;
   font-weight: bold;
-  font-size: 200px;
+  font-size: 60px;
   line-height: 24px;
   }
   h2{
     color:blue;
-    font-size: 200px;
+    font-size: 40px;
     font-style: italic;
     background-color: yellow;
     
   }
   p {
-    font-size: 20px;
+    font-size: 18px;
   }
   figure{
     float: right;

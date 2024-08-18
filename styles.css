@@ -1,0 +1,29 @@
+h1 {
+    font-family: "Century Gothic", sans-serif;
+  color: #fa6432;
+  font-weight: bold;
+  font-size: 200px;
+  line-height: 24px;
+  }
+  h2{
+    color:blue;
+    font-size: 200px;
+    font-style: italic;
+    background-color: yellow;
+    
+  }
+  p {
+    font-size: 20px;
+  }
+  figure{
+    float: right;
+    max-width: 40%;
+
+  }
+  img{
+    max-width: 100%;
+  }
+  a{
+    font-weight: bold;
+    font-size: 30px;
+  }
